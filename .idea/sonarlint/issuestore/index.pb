@@ -9,3 +9,7 @@ S
 #contracts/project-verification.clar,8/b/8b9b88a9f67dd8667e5cbd9073febb8c3ffb3e3a
 R
 "tests/project-verification.test.ts,1/e/1ef6eacd6f43e21faf080ea01843cb29636b1567
+R
+"tests/projection-milestone.test.ts,5/f/5fe8700c902095abb490e90b1262817fb9d44c9f
+S
+#contracts/projection-milestone.clar,e/c/ec6b1fff5a402240939c2709e248dbc71bb65f82
